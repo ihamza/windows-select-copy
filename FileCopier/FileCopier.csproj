@@ -4,7 +4,7 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>net6.0-windows</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
-    <ApplicationIcon>app.ico</ApplicationIcon>
+
     <AssemblyName>FileCopier</AssemblyName>
     <RootNamespace>FileCopier</RootNamespace>
   </PropertyGroup>
